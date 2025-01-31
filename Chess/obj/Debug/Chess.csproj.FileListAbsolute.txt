@@ -1,0 +1,11 @@
+C:\Users\leonardo.bsilva\OneDrive - Jad Zogheib e Cia Ltda\Documents\Projects\Curso\CSharp\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\leonardo.bsilva\OneDrive - Jad Zogheib e Cia Ltda\Documents\Projects\Curso\CSharp\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\leonardo.bsilva\OneDrive - Jad Zogheib e Cia Ltda\Documents\Projects\Curso\CSharp\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\leonardo.bsilva\OneDrive - Jad Zogheib e Cia Ltda\Documents\Projects\Curso\CSharp\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\leonardo.bsilva\OneDrive - Jad Zogheib e Cia Ltda\Documents\Projects\Curso\CSharp\Chess\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\leonardo.bsilva\OneDrive - Jad Zogheib e Cia Ltda\Documents\Projects\Curso\CSharp\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\leonardo.bsilva\OneDrive - Jad Zogheib e Cia Ltda\Documents\Projects\Curso\CSharp\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\leonardo.bsilva\OneDrive - Jad Zogheib e Cia Ltda\Documents\Projects\Curso\CSharp\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.bsilva\OneDrive - Jad Zogheib e Cia Ltda\Documents\Projects\Curso\CSharp\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\leonardo.bsilva\OneDrive - Jad Zogheib e Cia Ltda\Documents\Projects\Curso\CSharp\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\leonardo.bsilva\OneDrive - Jad Zogheib e Cia Ltda\Documents\Projects\Curso\CSharp\Chess\Chess\obj\Debug\Chess.Chess.resources
